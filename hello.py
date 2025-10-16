@@ -1,5 +1,6 @@
-print("This is from feature-1 branch!")
+print("Hello from main branch!")
+
 print("Emmanuel Ali")
 print("Ali")
-print("This is from feature-1 branch!")
-{}print("PR marker: feature-1 unique change")
+print("Hello from main branch!")
+
